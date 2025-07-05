@@ -9,7 +9,7 @@ both subfamilies are monospaced.
 Here are some preview images for this version!
 
 ## Regular
-![Pixel Space v3 Regular](https://github.com/TimeCubed/pixel-space/blob/main/imgs/v3-regular.png)<br>
+![Pixel Space v3 Regular](https://github.com/TimeCubed/pixel-space-v3/blob/main/imgs/v3-regular.png)<br>
 
 ## Wide
-![Pixel Space v3 Wide](https://github.com/TimeCubed/pixel-space/blob/main/imgs/v3-wide.png)<br>
+![Pixel Space v3 Wide](https://github.com/TimeCubed/pixel-space-v3/blob/main/imgs/v3-wide.png)<br>
